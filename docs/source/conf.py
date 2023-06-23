@@ -49,8 +49,8 @@ master_doc = 'index'
 
 # Set up interesphinx mapping between projects
 intersphinx_mapping = {
-    "project": ("https://software-radio-systems-srsran-docs.readthedocs-hosted.com/projects/software-radio-systems-srsran-project-docs/en/latest/", None),
-    "4g": ("https://software-radio-systems-srsran-docs.readthedocs-hosted.com/projects/software-radio-systems-srsran-4g-docs/en/latest/", None),
+    "project": ("https://docs.srsran.com/projects/project/en/latest/", None),
+    "4g": ("https://docs.srsran.com/projects/4g/en/latest/", None),
 }
 
 # Set up Hover Ref
@@ -152,11 +152,11 @@ html_context = {
     "sidebar_permanent_nav": [
         (
             'srsRAN Project',
-            "https://software-radio-systems-srsran-docs.readthedocs-hosted.com/projects/software-radio-systems-srsran-project-docs/en/latest/",
+            "https://docs.srsran.com/projects/project/en/latest/",
         ),
         (
             'srsRAN 4G',
-            "https://software-radio-systems-srsran-docs.readthedocs-hosted.com/projects/software-radio-systems-srsran-4g-docs/en/latest/",
+            "https://docs.srsran.com/projects/4g/en/latest/",
         ),
     ],
 
