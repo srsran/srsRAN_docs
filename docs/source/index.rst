@@ -11,11 +11,11 @@ The srsRAN software suite is an open-source collection of 4G and 5G software rad
 
 ---- 
 
-The **srsRAN Project** is an ORAN-native 5G CU/DU with a complete stack from I/Q to IP. You can find the srsRAN Project documentation `here <https://software-radio-systems-srsran-docs.readthedocs-hosted.com/projects/software-radio-systems-srsran-project-docs/en/latest/>`_.
+The **srsRAN Project** is an ORAN-native 5G CU/DU with a complete stack from I/Q to IP. You can find the srsRAN Project documentation `here <https://docs.srsran.com/projects/project/en/latest/>`_.
 
 ---- 
 
-The **srsRAN 4G** suite provides an end-to-end 4G network implementation with full-stack applications for UE, eNodeB and EPC. You can find the srsRAN 4G documentation `here <https://software-radio-systems-srsran-docs.readthedocs-hosted.com/projects/software-radio-systems-srsran-4g-docs/en/latest/>`_.
+The **srsRAN 4G** suite provides an end-to-end 4G network implementation with full-stack applications for UE, eNodeB and EPC. You can find the srsRAN 4G documentation `here <https://docs.srsran.com/projects/4g/en/latest/>`_.
 
 
 
